@@ -6,6 +6,19 @@
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Ollama](https://img.shields.io/badge/powered%20by-Ollama-black)
 
+<p align="center">
+  <img src="assets/charclaw_logo.png" alt="CharClaw Logo" width="500"/>
+</p>
+
+<h1 align="center">NilaClaw</h1>
+<p align="center"><b>AI Terminal Assistant with Character Personas</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-beta-orange">
+  <img src="https://img.shields.io/badge/python-3.10+-blue">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
 **Charclaw** is a local AI terminal assistant. Describe a task in plain English — Charclaw generates the shell command, explains it, checks it for safety, and executes it after your confirmation.
 
 Runs entirely on your machine via [Ollama](https://ollama.com). No API keys. No internet required. No data leaves your system.
