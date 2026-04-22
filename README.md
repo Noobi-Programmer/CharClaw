@@ -7,7 +7,7 @@
 ![Ollama](https://img.shields.io/badge/powered%20by-Ollama-black)
 
 <p align="center">
-  <img src="assets/charclaw_logo.png" alt="CharClaw Logo" width="500"/>
+  <img src="assets/charclaw_logo1.png" alt="CharClaw Logo" width="500"/>
 </p>
 
 <h1 align="center">NilaClaw</h1>
