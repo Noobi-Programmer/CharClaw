@@ -10,7 +10,9 @@
   <img src="assets/charclaw_logo2.png" alt="CharClaw Logo" width="500"/>
 </p>
 
-<h1 align="center">NilaClaw</h1>
+**Nila** is the default character in this program that is leaning on the text.
+
+<h1 align="center">CharClaw</h1>
 <p align="center"><b>AI Terminal Assistant with Character Personas</b></p>
 
 **Charclaw** is a local AI terminal assistant. Describe a task in plain English — Charclaw generates the shell command, explains it, checks it for safety, and executes it after your confirmation.
@@ -274,6 +276,22 @@ The easiest contributions:
 - Bug reports with full error output
 
 ---
+## Credits
+
+Character model **Nena** by [Peach (VRoid Hub)](https://hub.vroid.com/en/users/88358030)  
+Source: https://hub.vroid.com/en/characters/6933068319521707258/models/3594256124976469467
+
+### License Notes
+
+* Commercial and non-commercial use is permitted as per the creator’s terms.
+* Redistribution of the original model without modification is not performed.
+* No restricted use (e.g., resale, inappropriate content) is included in this project.
+
+For full terms, refer to the original creator’s VRoid Hub page.
+
+
+
+
 
 ## License
 
