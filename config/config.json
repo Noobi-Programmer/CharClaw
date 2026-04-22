@@ -1,0 +1,7 @@
+{
+  "model": "phi3:mini",
+  "persona": "nila",
+  "voice_enabled": false,
+  "report_mode": false,
+  "version": "0.1.0-beta"
+}

@@ -1,0 +1,13 @@
+# NilaClaw dependencies
+# Install with: pip install -r requirements.txt
+
+# Required
+rich>=13.0.0
+
+# Optional — voice output
+# edge-tts>=6.1.0
+
+# Optional — audio playback (install via system package manager)
+# sudo apt install mpg123
+# or
+# sudo apt install mpv
